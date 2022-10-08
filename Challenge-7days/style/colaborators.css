@@ -1,0 +1,41 @@
+.colaborators {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 32px;
+    gap: 64px;
+}
+
+.container_metric {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 32px;
+}
+
+.number_metric {
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+    color: var(--red);
+    padding-bottom: 12px;
+}
+
+.subtext_metric {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--textos);
+    padding-bottom: 10px;
+}
+
+.text_metric {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--text-main);
+}

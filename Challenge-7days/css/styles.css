@@ -1,0 +1,12 @@
+@import url(../style/header.css);
+@import url(../style/cabeçalho.css);
+@import url(../style/colaborators.css);
+@import url(../style/vagas.css);
+@import url(../style/depoimentos.css);
+@import url(../style/form.css);
+
+:root {
+    --red: #8E2424;
+    --text-main: #667085;
+    --textos: #101828;
+}
