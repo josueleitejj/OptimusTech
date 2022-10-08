@@ -1,2 +1,2 @@
 # OptimusTech
-Projeto Inicial do #7daysChallenge 
+Projeto Inicial do #7daysChallenge pela Alura!
