@@ -11,7 +11,8 @@
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-![OptimusTech](https://user-images.githubusercontent.com/111453394/204059376-f25abbdb-2105-4ae5-baac-63f1b4373bcb.png#vitrinedev)
+![OptimusTech](https://user-images.githubusercontent.com/111453394/205674425-f4f8a62a-f7d7-4f08-a0d4-c316fd26f8b3.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
